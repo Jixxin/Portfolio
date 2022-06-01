@@ -1,0 +1,21 @@
+.card:hover{
+    background-color: rgba(0, 255, 255, 0.351);
+    cursor: pointer;
+}
+
+.jumbotron {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer h3{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.footer a{
+    color:black
+}
