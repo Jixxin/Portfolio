@@ -1,7 +1,7 @@
-# 1st Portfolio
+# Portfolio
 
 ## Description
-This is my 1st portfolio. It showcases a variety of HTML and CSS usage. Application is able to be viewed on mobile or a current web browser.  
+This portfolio showcases some of my recent projects throughout my coding bootcamp as well as my ability to utilize bootstrap and css effectively.  
 
 ## Table of Contents
 - [Installation](#installation)
@@ -10,7 +10,7 @@ This is my 1st portfolio. It showcases a variety of HTML and CSS usage. Applicat
 - [Contact](#contact)
 
 ## Installation
-You can access the deployed link in my gitHub. Or, if you wish to install the code, just right click the index.html and open in default browser to view it. 
+No installation required. You can access the deployed link at https://jixxin.github.io/Portfolio/. 
 
 ## Contribution
 Project created by Jeff Hicks
